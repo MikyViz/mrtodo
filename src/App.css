@@ -1,0 +1,12 @@
+.moto{
+    background-color: rgb(49, 123, 120);
+    color: rgb(26, 26, 27);
+    padding: 10px 20px;
+    /* font-weight: 300; */
+  }
+
+.completed{
+    text-decoration: line-through;
+    color: gray;
+    font-size: smaller;
+}
